@@ -1,0 +1,83 @@
+parameters ---  pertrained : resnet50 | mode: all | IDE: False | FPN: True | rerank: False
+parameters ---  drop: 0.0 | Ir: 0.01 | dim: 512| re: 0.2
+parameters ---  Train_batch_size: 32 | Test_batch_size: 64 | trial: 0
+Test Epoch: 2
+FC:   Rank-1: 23.03% | Rank-5: 48.57% | Rank-10: 61.74%| mAP: 24.38%
+Test Epoch: 4
+FC:   Rank-1: 24.43% | Rank-5: 50.41% | Rank-10: 63.98%| mAP: 26.09%
+Test Epoch: 6
+FC:   Rank-1: 25.72% | Rank-5: 53.27% | Rank-10: 65.97%| mAP: 27.87%
+Test Epoch: 8
+FC:   Rank-1: 28.11% | Rank-5: 55.30% | Rank-10: 67.53%| mAP: 29.13%
+Test Epoch: 10
+FC:   Rank-1: 28.08% | Rank-5: 55.35% | Rank-10: 68.76%| mAP: 29.68%
+Test Epoch: 12
+FC:   Rank-1: 27.40% | Rank-5: 54.64% | Rank-10: 67.60%| mAP: 29.07%
+Test Epoch: 14
+FC:   Rank-1: 28.11% | Rank-5: 55.04% | Rank-10: 67.95%| mAP: 29.84%
+Test Epoch: 16
+FC:   Rank-1: 28.00% | Rank-5: 54.96% | Rank-10: 68.29%| mAP: 29.92%
+Test Epoch: 18
+FC:   Rank-1: 28.21% | Rank-5: 54.51% | Rank-10: 68.60%| mAP: 30.32%
+Test Epoch: 20
+FC:   Rank-1: 29.27% | Rank-5: 55.17% | Rank-10: 68.24%| mAP: 30.48%
+Test Epoch: 22
+FC:   Rank-1: 29.95% | Rank-5: 57.19% | Rank-10: 70.21%| mAP: 31.52%
+Test Epoch: 24
+FC:   Rank-1: 29.63% | Rank-5: 55.46% | Rank-10: 67.89%| mAP: 31.06%
+Test Epoch: 26
+FC:   Rank-1: 28.53% | Rank-5: 54.04% | Rank-10: 65.92%| mAP: 30.15%
+Test Epoch: 28
+FC:   Rank-1: 30.42% | Rank-5: 55.59% | Rank-10: 68.21%| mAP: 31.65%
+Test Epoch: 30
+FC:   Rank-1: 30.42% | Rank-5: 55.77% | Rank-10: 67.84%| mAP: 30.96%
+Test Epoch: 32
+FC:   Rank-1: 30.19% | Rank-5: 55.17% | Rank-10: 67.76%| mAP: 31.07%
+Test Epoch: 34
+FC:   Rank-1: 31.08% | Rank-5: 56.22% | Rank-10: 68.76%| mAP: 31.69%
+Test Epoch: 36
+FC:   Rank-1: 30.74% | Rank-5: 55.85% | Rank-10: 68.21%| mAP: 31.71%
+Test Epoch: 38
+FC:   Rank-1: 30.69% | Rank-5: 55.88% | Rank-10: 68.26%| mAP: 31.63%
+Test Epoch: 40
+FC:   Rank-1: 30.79% | Rank-5: 55.85% | Rank-10: 67.92%| mAP: 31.65%
+Test Epoch: 42
+FC:   Rank-1: 30.48% | Rank-5: 55.14% | Rank-10: 68.08%| mAP: 31.46%
+Test Epoch: 44
+FC:   Rank-1: 30.21% | Rank-5: 56.17% | Rank-10: 68.52%| mAP: 31.56%
+Test Epoch: 46
+FC:   Rank-1: 31.08% | Rank-5: 55.88% | Rank-10: 68.08%| mAP: 31.99%
+Test Epoch: 48
+FC:   Rank-1: 30.92% | Rank-5: 55.69% | Rank-10: 68.24%| mAP: 31.78%
+Test Epoch: 50
+FC:   Rank-1: 31.05% | Rank-5: 56.03% | Rank-10: 68.10%| mAP: 32.28%
+Test Epoch: 52
+FC:   Rank-1: 31.13% | Rank-5: 55.93% | Rank-10: 68.84%| mAP: 32.20%
+Test Epoch: 54
+FC:   Rank-1: 30.82% | Rank-5: 55.80% | Rank-10: 68.60%| mAP: 32.00%
+Test Epoch: 56
+FC:   Rank-1: 30.58% | Rank-5: 56.32% | Rank-10: 68.18%| mAP: 32.08%
+Test Epoch: 58
+FC:   Rank-1: 30.42% | Rank-5: 55.46% | Rank-10: 68.00%| mAP: 31.69%
+Test Epoch: 60
+FC:   Rank-1: 30.98% | Rank-5: 55.56% | Rank-10: 68.00%| mAP: 32.02%
+Test Epoch: 62
+FC:   Rank-1: 30.87% | Rank-5: 55.59% | Rank-10: 68.66%| mAP: 32.14%
+Test Epoch: 64
+FC:   Rank-1: 31.03% | Rank-5: 56.25% | Rank-10: 68.13%| mAP: 32.15%
+Test Epoch: 66
+FC:   Rank-1: 30.82% | Rank-5: 55.96% | Rank-10: 68.24%| mAP: 32.06%
+Test Epoch: 68
+FC:   Rank-1: 30.84% | Rank-5: 56.09% | Rank-10: 67.81%| mAP: 32.10%
+Test Epoch: 70
+FC:   Rank-1: 30.16% | Rank-5: 55.56% | Rank-10: 67.71%| mAP: 31.63%
+Test Epoch: 72
+FC:   Rank-1: 31.48% | Rank-5: 55.75% | Rank-10: 68.42%| mAP: 32.23%
+Test Epoch: 74
+FC:   Rank-1: 31.13% | Rank-5: 55.51% | Rank-10: 67.53%| mAP: 31.98%
+Test Epoch: 76
+FC:   Rank-1: 31.50% | Rank-5: 56.09% | Rank-10: 68.31%| mAP: 32.31%
+Test Epoch: 78
+FC:   Rank-1: 30.84% | Rank-5: 55.30% | Rank-10: 67.66%| mAP: 31.91%
+Test Epoch: 80
+FC:   Rank-1: 31.08% | Rank-5: 55.43% | Rank-10: 68.24%| mAP: 32.13%
