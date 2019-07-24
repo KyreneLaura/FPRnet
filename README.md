@@ -16,4 +16,6 @@
  Testing:
   run test.py 
   
-  model address  https://pan.baidu.com/s/1XUy7YtpiRRDQhc0QUXnuAQ     password：y3v1 
+  model address  https://drive.google.com/file/d/1iEWHHDCebd0F4ighY2j3UQanpItZq35x/view?usp=sharing
+
+  https://pan.baidu.com/s/1XUy7YtpiRRDQhc0QUXnuAQ     password：y3v1 
