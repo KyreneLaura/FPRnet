@@ -16,6 +16,6 @@
  Testing:
   run test.py 
   
-  [model address](https://drive.google.com/file/d/1iEWHHDCebd0F4ighY2j3UQanpItZq35x/view?usp=sharing)  or
+  [model google address](https://drive.google.com/file/d/1iEWHHDCebd0F4ighY2j3UQanpItZq35x/view?usp=sharing)  or
 
-  [](https://pan.baidu.com/s/1XUy7YtpiRRDQhc0QUXnuAQ)     password：y3v1 
+  [model baidu address](https://pan.baidu.com/s/1XUy7YtpiRRDQhc0QUXnuAQ)     password：y3v1 
